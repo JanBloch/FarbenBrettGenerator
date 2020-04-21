@@ -137,7 +137,6 @@
             this.numRectWidth.Name = "numRectWidth";
             this.numRectWidth.Size = new System.Drawing.Size(120, 20);
             this.numRectWidth.TabIndex = 7;
-            this.numRectWidth.ValueChanged += new System.EventHandler(this.numRectWidth_ValueChanged);
             // 
             // lblDescRectangleHeightNum
             // 

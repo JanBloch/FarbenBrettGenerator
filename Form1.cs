@@ -100,10 +100,5 @@ namespace FarbenBrett
             initColorPanels();
             setColors();
         }
-
-        private void numRectWidth_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
